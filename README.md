@@ -14,7 +14,7 @@
   <li>Star Wars Jedi Knight II: Jedi Outcast / Academy</li>
     <ul>
       <li><a href="https://jkhub.org/jk2files/">JKHub</a></li>
-      <li><a href="https://www.nexusmods.com/games/jediknight2">Jedi Outcast Remastered (Nexus Mods)</a></li>
+      <li><a href="https://www.nexusmods.com/games/jediknight2">Jedi Outcast (Nexus Mods)</a></li>
     </ul>
 </ul>
 
