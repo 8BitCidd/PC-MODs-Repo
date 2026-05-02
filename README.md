@@ -5,12 +5,12 @@
   <li><a href="https://www.moddb.com/mods/singleplayer-improved">Single Layer Improved</a></li>
   <li><a href="https://www.moddb.com/mods/call-of-duty-united-fronts">Call of Duty: United Fronts</a></li>
 </ul>
-**Star Wars:**
-Star Wars Jedi Knght: Dark Forces II
--
-Star Wars Jedi Knight: Mysteries of the Sith Remastered
-- https://www.moddb.com/mods/jedi-knight-mysteries-of-the-sith-remastered/downloads/star-wars-jedi-knight-mysteries-of-the-sith-remastered-40
-Star Wars Jedi Knight II: Jedi Outcast
--
-Star Wars Jedi Knight: Jedi Academy
-- 
+
+<h2>Star Wars Series</h2>
+<h3>Dark Force / Jedi Knight</h3>
+<ul>
+  <li><a href="https://www.moddb.com/mods/jedi-knight-remastered">Star Wars Jedi Knght: Dark Forces II / Mysteries of the Sith<a></li>
+  <li><a href="">Star Wars Jedi Knight II: Jedi Outcast</a></li>
+  <li><a href="">Star Wars Jedi Knight: Jedi Academy</a></li>
+</ul>
+
