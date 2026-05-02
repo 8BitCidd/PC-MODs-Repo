@@ -14,6 +14,7 @@
   <li>Star Wars Jedi Knight II: Jedi Outcast / Academy</li>
     <ul>
       <li><a href="https://jkhub.org/jk2files/">JKHub</a></li>
+      <li><a href="<li><a href="https://jkhub.org/jk2files/">JKHub</a></li>">Jedi Outcast Remastered</a></li>
     </ul>
 </ul>
 
