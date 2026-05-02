@@ -1,16 +1,10 @@
-<h3>Call od Duty Series</h3>
+<h2>Call of Duty Series</h2>
+<h2>Call of Duty / United Offensive</h2>
 <ul>
   <li><a href="https://github.com/Clippy95/CoDUO-YAP?tab=readme-ov-file">CoDUO-YAP ­– Yet another plugin for Call of Duty: United Offensive</a></li>
   <li><a href="https://www.moddb.com/mods/singleplayer-improved">Single Layer Improved</a></li>
   <li><a href="https://www.moddb.com/mods/call-of-duty-united-fronts">Call of Duty: United Fronts</a></li>
-
-**Call of Duty Series:**
-
-**Call of Duty / United Offensive**
-- https://github.com/Clippy95/CoDUO-YAP?tab=readme-ov-file
-- https://www.moddb.com/mods/singleplayer-improved
-- https://www.moddb.com/mods/call-of-duty-united-fronts
-
+</ul>
 **Star Wars:**
 Star Wars Jedi Knght: Dark Forces II
 -
