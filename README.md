@@ -11,7 +11,7 @@
 <ul>
   <li><a href="https://theforceengine.github.io/">The Force Engine (Dark Forces)</a></li>
   <li><a href="https://www.moddb.com/mods/jedi-knight-remastered">Star Wars Jedi Knght: Dark Forces II / Mysteries of the Sith Remastered<a></li>
-  <li><a href="">Star Wars Jedi Knight II: Jedi Outcast / Academy</a></li>
+  <li>Star Wars Jedi Knight II: Jedi Outcast / Academy</li>
     <ul>
       <li><a href="https://jkhub.org/jk2files/">JKHub</a></li>
     </ul>
